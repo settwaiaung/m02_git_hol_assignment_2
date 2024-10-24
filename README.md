@@ -40,3 +40,5 @@ We welcome contributions from the community! To contribute to this project, plea
 2. Clone your forked repository:
    ```bash
    git clone https://github.com/yourusername/ecommerce-platform.git
+
+## Thank You
